@@ -1,0 +1,16 @@
+.tshirt-container img {
+	width: 280px;
+	height: 280px;
+}
+
+.tshirt-container {
+	border: 1px solid silver;
+	border-radius: 10px;
+	padding: 10px;
+
+
+}
+
+button {
+	padding: 10px 10px;
+}
